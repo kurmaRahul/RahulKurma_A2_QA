@@ -72,5 +72,84 @@ namespace NewTest
             Assert.AreEqual("The triangle is valid and is an ISOSCELES", triangleType);
         }
 
+
+
+        //Tests for a valid scalene triangle
+
+        [Test]
+        public void AnalyzeTriangle_Input4and6and5_OutputValidScaleneTriangle()
+        {
+            // Arrange
+            int sideA = 4;
+            int sideB = 6;
+            int sideC = 5;
+
+            // Act
+            string triangleType = Triangle.AnalyzeTriangle(sideA, sideB, sideC);
+
+            // Assert
+            Assert.AreEqual("The triangle is valid and is a SCALENE", triangleType);
+        }
+
+        [Test]
+        public void AnalyzeTriangle_Input8and9and10_OutputValidScaleneTriangle()
+        {
+            // Arrange
+            int sideA = 8;
+            int sideB = 9;
+            int sideC = 10;
+
+            // Act
+            string triangleType = Triangle.AnalyzeTriangle(sideA, sideB, sideC);
+
+            // Assert
+            Assert.AreEqual("The triangle is valid and is a SCALENE", triangleType);
+        }
+
+        [Test]
+        public void AnalyzeTriangle_Input9and12and11_OutputValidScaleneTriangle()
+        {
+            // Arrange
+            int sideA = 9;
+            int sideB = 12;
+            int sideC = 11;
+
+            // Act
+            string triangleType = Triangle.AnalyzeTriangle(sideA, sideB, sideC);
+
+            // Assert
+            Assert.AreEqual("The triangle is valid and is a SCALENE", triangleType);
+        }
+
+        [Test]
+        public void AnalyzeTriangle_Input6and10and5_OutputValidScaleneTriangle()
+        {
+            // Arrange
+            int sideA = 6;
+            int sideB = 10;
+            int sideC = 5;
+
+            // Act
+            string triangleType = Triangle.AnalyzeTriangle(sideA, sideB, sideC);
+
+            // Assert
+            Assert.AreEqual("The triangle is valid and is a SCALENE", triangleType);
+        }
+
+        [Test]
+        public void AnalyzeTriangle_Input13and11and10_OutputValidScaleneTriangle()
+        {
+            // Arrange
+            int sideA = 13;
+            int sideB = 11;
+            int sideC = 10;
+
+            // Act
+            string triangleType = Triangle.AnalyzeTriangle(sideA, sideB, sideC);
+
+            // Assert
+            Assert.AreEqual("The triangle is valid and is a SCALENE", triangleType);
+        }
+
     }
 }
