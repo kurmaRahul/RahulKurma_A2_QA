@@ -1,0 +1,17 @@
+C:\Users\RAHUL\Downloads\TriangleSolver\TriangleSolver\NewTest\bin\Release\NUnit3.TestAdapter.dll
+C:\Users\RAHUL\Downloads\TriangleSolver\TriangleSolver\NewTest\bin\Release\NUnit3.TestAdapter.pdb
+C:\Users\RAHUL\Downloads\TriangleSolver\TriangleSolver\NewTest\bin\Release\nunit.engine.dll
+C:\Users\RAHUL\Downloads\TriangleSolver\TriangleSolver\NewTest\bin\Release\nunit.engine.api.dll
+C:\Users\RAHUL\Downloads\TriangleSolver\TriangleSolver\NewTest\bin\Release\nunit.engine.core.dll
+C:\Users\RAHUL\Downloads\TriangleSolver\TriangleSolver\NewTest\bin\Release\testcentric.engine.metadata.dll
+C:\Users\RAHUL\Downloads\TriangleSolver\TriangleSolver\NewTest\bin\Release\NewTest.dll
+C:\Users\RAHUL\Downloads\TriangleSolver\TriangleSolver\NewTest\bin\Release\NewTest.pdb
+C:\Users\RAHUL\Downloads\TriangleSolver\TriangleSolver\NewTest\bin\Release\nunit.framework.dll
+C:\Users\RAHUL\Downloads\TriangleSolver\TriangleSolver\NewTest\bin\Release\TriangleSolver.dll
+C:\Users\RAHUL\Downloads\TriangleSolver\TriangleSolver\NewTest\bin\Release\TriangleSolver.pdb
+C:\Users\RAHUL\Downloads\TriangleSolver\TriangleSolver\NewTest\bin\Release\nunit.framework.xml
+C:\Users\RAHUL\Downloads\TriangleSolver\TriangleSolver\NewTest\obj\Release\NewTest.csproj.AssemblyReference.cache
+C:\Users\RAHUL\Downloads\TriangleSolver\TriangleSolver\NewTest\obj\Release\NewTest.csproj.CoreCompileInputs.cache
+C:\Users\RAHUL\Downloads\TriangleSolver\TriangleSolver\NewTest\obj\Release\NewTest.csproj.CopyComplete
+C:\Users\RAHUL\Downloads\TriangleSolver\TriangleSolver\NewTest\obj\Release\NewTest.dll
+C:\Users\RAHUL\Downloads\TriangleSolver\TriangleSolver\NewTest\obj\Release\NewTest.pdb
